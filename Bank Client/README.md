@@ -28,7 +28,7 @@
 
 • **outcome**: whether the client has invested in the product advertised in the current campaign
 
-***I perform the following tasks:***
+***I will perform the following tasks:***
 
 • Perform one-hot encoding on the categorical columns job, marital and education.
 
