@@ -22,7 +22,7 @@ artery disease. You can find the following variables in the data:
 • **outcome**: 1 for patients with heart attack, and 0 for patients who did not have heart attack
 
 
-**I will perform K-Means clustering on the dataset and the following steps:**
+**I will perform K-Means clustering on the dataset and perform the following steps:**
 
 • Scale all the variables.
 
