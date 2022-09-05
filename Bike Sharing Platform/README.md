@@ -1,6 +1,6 @@
 # Bike Sharing Platform
 
-**In this project, I will perform tasks faced by a data analyst working with data from a bike sharing platform (’bike data.csv’). Your job is to build a predictive   model to estimate demand for bicycles at different locations using the following information (one row in the data is for one day of the year):**
+**In this project, I will perform tasks faced by a data analyst working with data from a bike sharing platform (’bike data.csv’). My job is to build a predictive   model to estimate demand for bicycles at different locations using the following information (one row in the data is for one day of the year):**
 
 • **season**: the season of the observaton (1: winter, 2: spring, 3: summer, 4: fall)
 
