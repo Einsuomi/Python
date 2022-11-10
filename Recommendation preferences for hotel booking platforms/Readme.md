@@ -22,3 +22,11 @@ chance to explore the recommendations preferences.
 
 ## 
 It is worth mentioning that The specific stay period and a specific location I chose are from 2022.12.23 to 2022.12.25 in Venice, Italy. 
+Dataset of three websties are also uploaded.
+
+## Interest Findings
+- The relationship between source and the mean of average price: the recommendation hotels from booking.com has the highest mean of average price, maybe either booking.com wants to recommend more expensive hotel to users or their hotel price is higher than other websites. Hotels.com has the lowest average price.
+
+- The relationship between source and the average hotel rating: Hotels.com has the lowest average hotel rating. Considering the lowest mean of average price, maybe hotels.com wants to default recommend lower price hotels to users, so the hotel rating is relatively lower.
+
+- More Findings and code can be seen in the Jupyter Notebook.
