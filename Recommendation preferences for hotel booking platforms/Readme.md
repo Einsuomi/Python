@@ -11,9 +11,9 @@ chance to explore the recommendations preferences.
 
 ## To accomplish this goal, I did the following steps:
 
-• Data Scraping
+• Data Scraping (by using BeautifulSoup)
 
-• Data Processing
+• Data Processing 
 
 • Exploratory data analysis (Visualization)
 
