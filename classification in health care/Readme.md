@@ -18,6 +18,8 @@ The dataset contains some measurements about patients, who experienced angina, w
 
 Try to find the best accuracy model to predict the "outcome". 
 
+## Solutions
+
 - Try to understand the different variables using some statistical measures and some visualization tools.
 
 - Make the prediction of "outcome" column with 4 classification models.
