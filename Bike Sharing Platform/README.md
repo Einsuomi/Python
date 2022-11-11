@@ -33,4 +33,4 @@
 
 • Develop a regression model that the company can use to predict the count of total rental bikes. Start with all the variables included in the data file, then follow the some process to remove variables as long as still find the model performance acceptable.
 
-• By looking at the coefficients of my final model, would you say that, for example, the company willneed more bikes on a day when temperature is 20 or on a day when temperature is 25?
+• By looking at the coefficients of my final model, would you say that, for example, the company will need more bikes on a day when temperature is 20 or on a day when temperature is 25?
