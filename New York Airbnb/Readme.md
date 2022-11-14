@@ -31,7 +31,7 @@ I will analyse the dataset from different perspectives, with the main focus on u
 ## Solutions
 
 - Perform some descriptive analysis to get a picture of the data. 
-- Build a prediction model for predicting price using the variables of choice with random forest regression.
+- Build a prediction model for predicting price using the variables of choice with random forest regression.
 - Finally, I will try to understand the impact of the review name on the price.
   - Generate 10 most frequent words that appear in the listing column.
   - General and remove stopwords. ( English stopwords and other expressions I need to exclude to get some meaningful results)
