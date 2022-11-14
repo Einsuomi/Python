@@ -24,7 +24,7 @@ I will build a predictive model to estimate selling price for houses.
 
 ## Solutions
 
-I will perform perform the following tasks:
+I will perform the following tasks:
 
 - Exploratory data analysis: try to understand the different variables in the data. Identify the variables that you think have an effect on the price of the house based on exploratory data analysis methods.
  
