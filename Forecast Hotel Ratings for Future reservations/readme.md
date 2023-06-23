@@ -25,7 +25,9 @@
 
 # Results
   Out of the 124 models generated from the four algorithms under consideration, the 30th ANN model with hyperparameters tuned to {'batch_size': 30, 'epochs': 100, 'num_hidden_layers': 6, 'num_nodes': 6}, exhibites the highest TN_score value of 0.55. This model is designed with a specific set of features consisting of Room_Type, Travel_Type, Check_In_Month, and Nights.
-  ![image](https://github.com/Einsuomi/Python/assets/97128113/7e074fea-2177-4467-827f-202cdcdb904f)
+
+![image](https://github.com/Einsuomi/Python/assets/97128113/d844203a-a73c-44c4-b1f2-4418e214c4e1)
+
 
 # Conclusion 
   The best performing models achieved a 60% accuracy in classifying negative instances. However, increasing the number of predicted true negative instances also increased the number of false negative instances. This result was primarily due to the unpredictability of customer behaviour, making it difficult to accurately predict ratings. 
