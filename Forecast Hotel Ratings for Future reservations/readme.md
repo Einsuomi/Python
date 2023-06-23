@@ -26,7 +26,7 @@
 # Results
   Out of the 124 models generated from the four algorithms under consideration, the 30th ANN model with hyperparameters tuned to {'batch_size': 30, 'epochs': 100, 'num_hidden_layers': 6, 'num_nodes': 6}, exhibites the highest TN_score value of 0.55. This model is designed with a specific set of features consisting of Room_Type, Travel_Type, Check_In_Month, and Nights.
 
-![image](https://github.com/Einsuomi/Python/assets/97128113/d844203a-a73c-44c4-b1f2-4418e214c4e1)
+![image](https://github.com/Einsuomi/Python/assets/97128113/a01b376e-81a7-45eb-865c-cbe4aa439f12)
 
 
 # Conclusion 
