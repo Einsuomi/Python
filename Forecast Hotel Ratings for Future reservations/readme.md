@@ -21,5 +21,15 @@
 - Rating: The target variable, How would the customers rate their stay.
 
 
-### The code of different processes of the project are shown in different 
+### The code of different processes of the project are shown in different ipynb files in this folder.
+
+# Results
+  Out of the 124 models generated from the four algorithms under consideration, the 30th ANN model with hyperparameters tuned to {'batch_size': 30, 'epochs': 100, 'num_hidden_layers': 6, 'num_nodes': 6}, exhibites the highest TN_score value of 0.55. This model is designed with a specific set of features consisting of Room_Type, Travel_Type, Check_In_Month, and Nights.
+  
+
+
+# Conclusion 
+  The best performing models achieved a 60% accuracy in classifying negative instances. However, increasing the number of predicted true negative instances also increased the number of false negative instances. This result was primarily due to the unpredictability of customer behaviour, making it difficult to accurately predict ratings. 
+
+  Despite not achieving the desired result, this project still presents a novel direction for future research and provides suggestions for future research ideas. For example, future research could examine mitigating the unpredictability of customer behaviour by collaborating with multiple booking platforms to develop a database that incorporates the historical data of each customer. 
 
