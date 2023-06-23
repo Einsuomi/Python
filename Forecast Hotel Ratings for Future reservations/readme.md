@@ -4,7 +4,7 @@
 
   The project's primary objective is to assess the effectiveness of machine learning in predicting negative instances, a critical factor in managing online reputation. 4 algorithms are used and total 124 models are created to accomplish this goal. 
 
-  This project include all steps of data analysis to handle a real world problem, from idea generation, background research, data collection, data preprocessing, EDA, feature engieering, data modeling and analysis, results interpretation. If you are interested in this topic, please contact me to get the complete version of report. 
+  This project include all steps of data analysis to handle a real world problem, from idea generation, background research, data collection, data preprocessing, EDA, feature engineering, data modeling and analysis, results interpretation. If you are interested in this topic, please contact me to get the complete version of report. 
 
 # Algorithms
 - Logistic regression
